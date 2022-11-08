@@ -1,6 +1,4 @@
 #Natasha Needham
-#CS350
-#Winter 2021
 #Minimum spanning tree with 2 algorithms
 
 import sys
